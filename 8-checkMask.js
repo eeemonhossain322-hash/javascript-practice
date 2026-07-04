@@ -1,5 +1,5 @@
 /*
- * File Name: 10-maskCheck.js
+ * File Name: 8-maskCheck.js
  * Description: Checks mask availability from inventory array. Takes maskName as 
  *              parameter and returns "Available" if found in availableMasks array, 
  *              otherwise returns "Out of stock".
